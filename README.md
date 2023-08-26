@@ -1,5 +1,5 @@
-# 💫 Hello,I am Rehan:
-Looking to collaborate on Full Stack Developments
+#  Hello,I am Rehan
+
 
 
 # 💫 About Me:
