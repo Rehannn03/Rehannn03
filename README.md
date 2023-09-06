@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-👯 I’m looking to collaborate on Full Stack Development<br>🤝 I’m looking for help with ML<br>🌱 I’m currently learning Next.js<br><br>📩You can reach me on:rehanshah221203@gmail.com<br>
+👯 I’m looking to collaborate on Full Stack Development<br>🤝 I’m looking for help with ML<br>🌱 I’m currently learning Next.js<br>📩You can reach me on:rehanshah221203@gmail.com<br>
 
 
 ## 🌐 Socials:
